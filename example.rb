@@ -29,6 +29,5 @@ def update_brands_ugly_method
 
     end
   end
-
-
+  return sellers.length
 end
